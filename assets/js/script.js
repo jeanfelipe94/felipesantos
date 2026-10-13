@@ -1,6 +1,6 @@
 // CONFIGURAÇÃO: coloque aqui o número do WhatsApp do Felipe, somente números, com DDI e DDD.
 // Exemplo: const WHATSAPP_NUMBER = '5584999999999';
-const WHATSAPP_NUMBER = 'COLOQUE_O_NUMERO_AQUI';
+const WHATSAPP_NUMBER = '5584999577041';
 
 const header = document.querySelector('.site-header');
 const menuToggle = document.querySelector('.menu-toggle');
